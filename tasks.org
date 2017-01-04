@@ -6,7 +6,9 @@
 - S-UP/S-DOWN :: Change priority
 * Project
 * Tasks
-** TODO Make a git repo for org
-** TODO Make a git repo for emacs.d
+** DONE Make a git repo for org
+   CLOSED: [2017-01-04 Wed 16:40]
+** DONE Make a git repo for emacs.d
+   CLOSED: [2017-01-04 Wed 16:40]
 ** TODO Setup playground for Vue.js
 ** TODO Setup playground for Quasar Framework (Vue.js)
