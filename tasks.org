@@ -1,0 +1,12 @@
+* Cheatsheet
+- Tab/S-Tab :: Expand/Collapse
+- M-RIGHT/M-LEFT :: +/- level
+- M-UP/M-DOWN:: Move row up/down
+- S-RIGHT/S-LEFT :: Change type (TODO/List ...)
+- S-UP/S-DOWN :: Change priority
+* Project
+* Tasks
+** TODO Make a git repo for org
+** TODO Make a git repo for emacs.d
+** TODO Setup playground for Vue.js
+** TODO Setup playground for Quasar Framework (Vue.js)
